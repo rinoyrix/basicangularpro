@@ -1,0 +1,11 @@
+@font-face {
+  font-family: r-b;
+  src: url(../../fonts/Roboto-Black.ttf); }
+@font-face {
+  font-family: r-m;
+  src: url(../../fonts/Roboto-Regular.ttf); }
+@font-face {
+  font-family: r-l;
+  src: url(../../fonts/Roboto-Thin.ttf); }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJhc2UuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsaUJBQWlCO0VBQ2pCLHVDQUF1QyxFQUFFO0FBQzNDO0VBQ0UsaUJBQWlCO0VBQ2pCLHlDQUF5QyxFQUFFO0FBQzdDO0VBQ0UsaUJBQWlCO0VBQ2pCLHNDQUFzQyxFQUFFIiwiZmlsZSI6ImJhc2UuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGZvbnQtZmFjZSB7XHJcbiAgZm9udC1mYW1pbHk6IHItYjtcclxuICBzcmM6IHVybCguLi8uLi9mb250cy9Sb2JvdG8tQmxhY2sudHRmKTsgfVxyXG5AZm9udC1mYWNlIHtcclxuICBmb250LWZhbWlseTogci1tO1xyXG4gIHNyYzogdXJsKC4uLy4uL2ZvbnRzL1JvYm90by1SZWd1bGFyLnR0Zik7IH1cclxuQGZvbnQtZmFjZSB7XHJcbiAgZm9udC1mYW1pbHk6IHItbDtcclxuICBzcmM6IHVybCguLi8uLi9mb250cy9Sb2JvdG8tVGhpbi50dGYpOyB9XHJcblxyXG4vKiMgc291cmNlTWFwcGluZ1VSTD1iYXNlLmNzcy5tYXAgKi9cclxuIl19 */
